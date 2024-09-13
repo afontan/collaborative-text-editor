@@ -70,10 +70,10 @@ cd server
 node server.js
 ```
 
-The server will start on port `3000`, and you should see output like:
+The server will start on port `5555`, and you should see output like:
 
 ```
-WebSocket server is running on ws://localhost:3000
+WebSocket server is running on ws://localhost:5555
 ```
 
 #### 2. Start the React Client
