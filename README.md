@@ -41,7 +41,7 @@ You need to have **Node.js** and **npm** installed on your machine.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/collaborative-text-editor.git
+   git clone https://github.com/afontan/collaborative-text-editor.git
    cd collaborative-text-editor
    ```
 
