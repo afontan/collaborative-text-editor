@@ -152,7 +152,7 @@ lastUpdateMap.set('time', new Date().toLocaleTimeString());
   const hasPromptedForUsername = useRef(false);
   ```
 
-- **WebSocket Connection Issues**: Ensure the WebSocket server is running on port \`3000\`. If the connection is not established, check your network or firewall settings.
+- **WebSocket Connection Issues**: Ensure the WebSocket server is running on port \`5555\`. If the connection is not established, check your network or firewall settings.
 
 ## Future Improvements
 
